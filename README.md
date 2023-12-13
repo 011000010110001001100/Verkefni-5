@@ -27,7 +27,7 @@ Verkefnið þarf að vera ykkar eigið og gert er ráð fyrir sjálfstæðum vin
 
 
 <h3>Step by step</h3>
-Byrjaði á því að finna mér eitthvað til að vinna, gat ekki mætt í tímana sem við vorum að vinna verkefnið í og ákvað að gera skýrslu
+<li>Byrjaði á því að finna mér eitthvað til að vinna, gat ekki mætt í tímana sem við vorum að vinna verkefnið í og ákvað að gera skýrslu</li>
 <l1>Lesa mig um</l1>
 <li>Gera efnislista</li>
 <li>Gera kerfisskýringu</li>

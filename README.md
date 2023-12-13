@@ -1,4 +1,4 @@
-# Verkefni 5
+<h1>Verkefni 5</h1>
 
 <h2>Verkefnalýsing</h2>
 
@@ -10,7 +10,7 @@ Verkefnið þarf að vera ykkar eigið og gert er ráð fyrir sjálfstæðum vin
 <h2>Efnislisti</h2>
 
  <li>Snúrur - 2 stk.</li>
- <li>Vírar - 8 stk.</li>
+ <li>Vírar - 6 stk.</li>
  <li>Braupbretti - 2 stk.</li>
  <li>Rafmótstaða 10k - 2 stk.</li>
  <li>Jarðvegsskynjari</li>
@@ -33,4 +33,4 @@ Verkefnið þarf að vera ykkar eigið og gert er ráð fyrir sjálfstæðum vin
 
 
  
-
+<h3>Takk</h3>

@@ -2,7 +2,7 @@
 
 <h3>Verkefnalýsing</h3>
 
-_Lokaverkefnið snýr að IoT frumgerðasmíð þar sem ýmis tæki og íhlutir eru notuð. Unnið er með samþætting tækja og hugbúnaðar tengda netinu sem geta greint gögn og upplýsingar úr umhverfinu, miðlað þeim og stýrt tengdum úttaksbúnaði.
+_Lokaverkefnið snýr að [IoT](https://en.wikipedia.org/wiki/Internet_of_things) frumgerðasmíð þar sem ýmis tæki og íhlutir eru notuð. Unnið er með samþætting tækja og hugbúnaðar tengda netinu sem geta greint gögn og upplýsingar úr umhverfinu, miðlað þeim og stýrt tengdum úttaksbúnaði.
 Viðfangefnið verkefnis og útfærsla er frjáls en er háð samþykki kennara og þarf að uppfylla ákveðna verkþætti (sjá neðar).
 Verkefnið þarf að vera ykkar eigið og gert er ráð fyrir sjálfstæðum vinnubrögðum. Skoðið Adafruit, Makerpro, Hackster fyrir innblástur og hugmyndir_
 

@@ -20,11 +20,11 @@ Verkefnið þarf að vera ykkar eigið og gert er ráð fyrir sjálfstæðum vin
 
  
 <h2>Kerfisskýringarmynd</h2>
-![kerfisskýring](https://github.com/011000010110001001100/Verkefni-5/assets/90766838/137738ae-f5a9-4ef7-8d34-45ff831371d1)
+<img src="https://github.com/011000010110001001100/Verkefni-5/blob/main/kerfisskýring.png" width="50%" height="50%">
 
 
 <h2>Rafrásarmynd</h2>
-![rafras](https://github.com/011000010110001001100/Verkefni-5/assets/90766838/85aa40be-e63c-4f67-9c28-a1b5003f1097)
+<img src="https://github.com/011000010110001001100/Verkefni-5/blob/main/rafras.png" width="50%" height="50%">
 
 
 

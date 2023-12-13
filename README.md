@@ -7,15 +7,15 @@ Viðfangefnið verkefnis og útfærsla er frjáls en er háð samþykki kennara 
 Verkefnið þarf að vera ykkar eigið og gert er ráð fyrir sjálfstæðum vinnubrögðum. Skoðið [Adafruit](https://learn.adafruit.com), [Makerpro](https://maker.pro) og [Hackster](https://www.hackster.io) fyrir innblástur og hugmyndir_
 
 
-<h3>Efnislisti</h3>
+<h3>Efnislisti</h3> [ESP32]()
 
+ <li>[Vírar](https://www.amazon.com/Elegoo-EL-CP-004-Multicolored-Breadboard-arduino/dp/B01EV70C78/ref=sr_1_1_sspa?crid=1K4037DSGCLWL&keywords=wire%2Barduino&qid=1702483344&sprefix=wire%2Barduino%2Caps%2C375&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1) - 6 stk.</li>
  <li>Snúrur - 2 stk.</li>
- <li>Vírar - 6 stk.</li>
- <li>Braupbretti - 2 stk.</li>
- <li>Rafmótstaða 10k - 2 stk.</li>
- <li>Jarðvegsskynjari</li>
+ <li>[Brauðbretti](https://www.amazon.com/Breadboards-Solderless-Breadboard-Distribution-Connecting/dp/B07DL13RZH/ref=sr_1_1_sspa?crid=3ET2UCLGYKUCP&keywords=breadboard&qid=1702483412&sprefix=breadbor%2Caps%2C469&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) - 2 stk.</li>
+ <li>[Rafmótstaða](https://www.amazon.com/EEEEE-Resistor-Assortment-Electrical-Industrial/dp/B09PLNPX3P/ref=sr_1_1_sspa?crid=IOCBGVK9TDFO&keywords=arduino%2Bresistor&qid=1702483542&sprefix=arduino%2Bresisti%2Caps%2C332&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1) 10k - 2 stk.</li>
+ <li>[Jarðvegsskynjari](https://www.amazon.com/Capacitive-Moisture-Temperature-Humidity-ESP-8266/dp/B0B36FQMH4/ref=sr_1_2?crid=1O17TOKBT3J7S&keywords=esp32+soil+moisture+sensor&qid=1702483584&sprefix=esp32+soil+s%2Caps%2C330&sr=8-2)</li>
  <li>Fartölva</li> 
- <li>ESP32 - 2 stk.</li>
+ <li>[ESP32](https://www.amazon.com/HiLetgo-ESP-WROOM-32-Development-Microcontroller-Integrated/dp/B0718T232Z/ref=sr_1_4?crid=2VGOKZULJ59RI&keywords=esp32&qid=1702483602&sprefix=esp32+s%2Caps%2C401&sr=8-4) - 2 stk.</li>
 
 
  

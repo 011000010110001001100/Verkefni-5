@@ -1,4 +1,4 @@
-# Verkefni-5
+# Verkefni 5
 
 <h2>Verkefnalýsing</h2>
 
@@ -20,10 +20,12 @@ Verkefnið þarf að vera ykkar eigið og gert er ráð fyrir sjálfstæðum vin
 
  
 <h2>Kerfisskýringarmynd</h2>
-![image](https://github.com/011000010110001001100/Verkefni-5/assets/90766838/40d14136-dc0c-40c7-88f5-e8fdf4d1d66a)
+![kerfisskýring](https://github.com/011000010110001001100/Verkefni-5/assets/90766838/137738ae-f5a9-4ef7-8d34-45ff831371d1)
+
 
 <h2>Rafrásarmynd</h2>
-![image](https://github.com/011000010110001001100/Verkefni-5/assets/90766838/222ae315-98ee-4dbc-acfb-3459fdd261ed)
+![rafras](https://github.com/011000010110001001100/Verkefni-5/assets/90766838/85aa40be-e63c-4f67-9c28-a1b5003f1097)
+
 
 
 

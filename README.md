@@ -16,10 +16,13 @@ Verkefnið þarf að vera ykkar eigið og gert er ráð fyrir sjálfstæðum vin
  <li>Jarðvegsskynjari</li>
  <li>Fartölva</li> 
  <li>ESP32 - 2 stk.</li>
- 
 
+
+ 
+<h1>Kerfisskýringarmynd</h1>
 ![image](https://github.com/011000010110001001100/Verkefni-5/assets/90766838/40d14136-dc0c-40c7-88f5-e8fdf4d1d66a)
 
+<h1>Rafrásarmynd</h1>
 ![image](https://github.com/011000010110001001100/Verkefni-5/assets/90766838/222ae315-98ee-4dbc-acfb-3459fdd261ed)
 
 

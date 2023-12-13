@@ -7,13 +7,14 @@ Verkefnið þarf að vera ykkar eigið og gert er ráð fyrir sjálfstæðum vin
 
 
 Efnislisti:
- ESP32 - 2 stk.
- Snúrur - 2 stk.
- Vírar - 8 stk.
- Braupbretti - 2 stk.
- Rafmótstaða 10k - 2 stk.
- Jarðvegsskynjari 
- Fartölva
+  <LI>ESP32 - 2 stk.</LI>
+ <li>Snúrur - 2 stk.</li>
+ <li>Vírar - 8 stk.</li>
+ <li>Braupbretti - 2 stk.</li>
+ <li>Rafmótstaða 10k - 2 stk.</li>
+ <li>Jarðvegsskynjari</li>
+ <li>Fartölva</li> 
+ 
 
 ![image](https://github.com/011000010110001001100/Verkefni-5/assets/90766838/40d14136-dc0c-40c7-88f5-e8fdf4d1d66a)
 

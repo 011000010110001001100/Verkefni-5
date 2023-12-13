@@ -26,6 +26,9 @@ Verkefnið þarf að vera ykkar eigið og gert er ráð fyrir sjálfstæðum vin
 <h2>Rafrásarmynd</h2>
 <img src="https://github.com/011000010110001001100/Verkefni-5/blob/main/Myndir/rafras.png" width="50%" height="50%">
 
+<h2>Hvernig þetta á að virka</h2>
+[<img src="[https://img.youtube.com/vi/<VIDEO ID>/hqdefault.jpg](https://www.youtube.com/watch?v=1wYAwtzNxJU&t=3s)" width="50%" height="50%">](https://youtu.be/<VIDEO ID>)
+
 
 
 

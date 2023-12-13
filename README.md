@@ -7,7 +7,7 @@ Viðfangefnið verkefnis og útfærsla er frjáls en er háð samþykki kennara 
 Verkefnið þarf að vera ykkar eigið og gert er ráð fyrir sjálfstæðum vinnubrögðum. Skoðið [Adafruit](https://learn.adafruit.com), [Makerpro](https://maker.pro) og [Hackster](https://www.hackster.io) fyrir innblástur og hugmyndir_
 
 
-<h3>Efnislisti</h3> [ESP32]
+<h3>Efnislisti</h3> 
 
  <li>Vírar - 6 stk.</li>
  <li>Snúrur - 2 stk.</li>
@@ -15,8 +15,9 @@ Verkefnið þarf að vera ykkar eigið og gert er ráð fyrir sjálfstæðum vin
  <li>Rafmótstaða 10k - 2 stk.</li>
  <li>Jarðvegsskynjari</li>
  <li>Fartölva</li> 
- <li>[ESP32](https://www.amazon.com/Freenove-ESP32-WROVER-Contained-Compatible-Bluetooth/dp/B08FM2NCST/ref=sr_1_1_sspa?crid=J36BHYV6ROV2&keywords=esp32+kit&qid=1702483736&sprefix=esp32+%2Caps%2C396&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)</li>
+ <li>ESP32</li>
 
+ <h4>Getur fengið flest [hér](https://learn.adafruit.com)</h4>
 
  
 <h3>Kerfisskýringarmynd</h3>

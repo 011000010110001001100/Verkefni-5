@@ -28,8 +28,7 @@ Verkefnið þarf að vera ykkar eigið og gert er ráð fyrir sjálfstæðum vin
 
 <h2>Hvernig þetta á að virka</h2>
 
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">]([https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55](https://www.youtube.com/watch?v=1wYAwtzNxJU&t=3s)https://www.youtube.com/watch?v=1wYAwtzNxJU&t=3s")
-
+[<img src="https://i.etsystatic.com/10919371/r/il/155a7d/1563938723/il_794xN.1563938723_1rmr.jpg" width="50%" height="50%">](https://www.youtube.com/watch?v=1wYAwtzNxJU&t=3s)
 
 
 

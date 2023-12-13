@@ -17,8 +17,6 @@ Verkefnið þarf að vera ykkar eigið og gert er ráð fyrir sjálfstæðum vin
  <li>Fartölva</li> 
  <li>ESP32</li>
 
- <h4>Getur fengið flest [hér](https://learn.adafruit.com)</h4>
-
  
 <h3>Kerfisskýringarmynd</h3>
 <img src="https://github.com/011000010110001001100/Verkefni-5/blob/main/Myndir/kerfisskýring.png" width="50%" height="50%">
